@@ -8,7 +8,7 @@ This repository contains multiple data analysis projects using Python, covering 
 - 💧 Water Quality Analysis – Assessing key water parameters for potability
 - 📺 Netflix Data Analysis – Examining streaming trends and content insights
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used 
 - Python (Pandas, NumPy) – Data manipulation
 - Matplotlib, Seaborn, Plotly – Data visualization
 - Jupyter Notebook – Interactive data analysis
